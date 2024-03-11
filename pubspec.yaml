@@ -15,6 +15,8 @@ dependencies:
   hive_flutter:
   uuid:
   flutter_slidable:
+  flutter_tts:
+  speech_to_text: ^6.6.1
 
 dev_dependencies:
   flutter_test:
